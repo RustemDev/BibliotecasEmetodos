@@ -1,0 +1,9 @@
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasSubitrair\bin\Debug\netcoreapp3.1\ProgramasSubitrair.deps.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasSubitrair\bin\Debug\netcoreapp3.1\ProgramasSubitrair.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasSubitrair\bin\Debug\netcoreapp3.1\ProgramasSubitrair.pdb
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasSubitrair\obj\Debug\netcoreapp3.1\ProgramasSubitrair.csprojAssemblyReference.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasSubitrair\obj\Debug\netcoreapp3.1\ProgramasSubitrair.AssemblyInfoInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasSubitrair\obj\Debug\netcoreapp3.1\ProgramasSubitrair.AssemblyInfo.cs
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasSubitrair\obj\Debug\netcoreapp3.1\ProgramasSubitrair.csproj.CoreCompileInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasSubitrair\obj\Debug\netcoreapp3.1\ProgramasSubitrair.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasSubitrair\obj\Debug\netcoreapp3.1\ProgramasSubitrair.pdb

@@ -1,0 +1,9 @@
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasMultiplicar\bin\Debug\netcoreapp3.1\ProgramasMultiplicar.deps.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasMultiplicar\bin\Debug\netcoreapp3.1\ProgramasMultiplicar.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasMultiplicar\bin\Debug\netcoreapp3.1\ProgramasMultiplicar.pdb
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasMultiplicar\obj\Debug\netcoreapp3.1\ProgramasMultiplicar.csprojAssemblyReference.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasMultiplicar\obj\Debug\netcoreapp3.1\ProgramasMultiplicar.AssemblyInfoInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasMultiplicar\obj\Debug\netcoreapp3.1\ProgramasMultiplicar.AssemblyInfo.cs
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasMultiplicar\obj\Debug\netcoreapp3.1\ProgramasMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasMultiplicar\obj\Debug\netcoreapp3.1\ProgramasMultiplicar.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasMultiplicar\obj\Debug\netcoreapp3.1\ProgramasMultiplicar.pdb

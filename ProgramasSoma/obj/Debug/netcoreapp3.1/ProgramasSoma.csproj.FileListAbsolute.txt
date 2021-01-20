@@ -1,0 +1,9 @@
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasSoma\bin\Debug\netcoreapp3.1\ProgramasSoma.deps.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasSoma\bin\Debug\netcoreapp3.1\ProgramasSoma.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasSoma\bin\Debug\netcoreapp3.1\ProgramasSoma.pdb
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasSoma\obj\Debug\netcoreapp3.1\ProgramasSoma.csprojAssemblyReference.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasSoma\obj\Debug\netcoreapp3.1\ProgramasSoma.AssemblyInfoInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasSoma\obj\Debug\netcoreapp3.1\ProgramasSoma.AssemblyInfo.cs
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasSoma\obj\Debug\netcoreapp3.1\ProgramasSoma.csproj.CoreCompileInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasSoma\obj\Debug\netcoreapp3.1\ProgramasSoma.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\Matematica\ProgramasSoma\obj\Debug\netcoreapp3.1\ProgramasSoma.pdb

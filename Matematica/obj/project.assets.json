@@ -1,0 +1,145 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProgramasDivisao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ProgramasDivisao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProgramasDivisao.dll": {}
+        }
+      },
+      "ProgramasMultiplicar/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ProgramasMultiplicar.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProgramasMultiplicar.dll": {}
+        }
+      },
+      "ProgramasSoma/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ProgramasSoma.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProgramasSoma.dll": {}
+        }
+      },
+      "ProgramasSubitrair/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ProgramasSubitrair.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProgramasSubitrair.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgramasDivisao/1.0.0": {
+      "type": "project",
+      "path": "../ProgramasDivisao/ProgramasDivisao.csproj",
+      "msbuildProject": "../ProgramasDivisao/ProgramasDivisao.csproj"
+    },
+    "ProgramasMultiplicar/1.0.0": {
+      "type": "project",
+      "path": "../ProgramasMultiplicar/ProgramasMultiplicar.csproj",
+      "msbuildProject": "../ProgramasMultiplicar/ProgramasMultiplicar.csproj"
+    },
+    "ProgramasSoma/1.0.0": {
+      "type": "project",
+      "path": "../ProgramasSoma/ProgramasSoma.csproj",
+      "msbuildProject": "../ProgramasSoma/ProgramasSoma.csproj"
+    },
+    "ProgramasSubitrair/1.0.0": {
+      "type": "project",
+      "path": "../ProgramasSubitrair/ProgramasSubitrair.csproj",
+      "msbuildProject": "../ProgramasSubitrair/ProgramasSubitrair.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ProgramasDivisao >= 1.0.0",
+      "ProgramasMultiplicar >= 1.0.0",
+      "ProgramasSoma >= 1.0.0",
+      "ProgramasSubitrair >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rhjm2\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rhjm2\\OneDrive\\Área de Trabalho\\Concessionaria\\Programas\\Matematica\\Matematica\\Matematica.csproj",
+      "projectName": "Matematica",
+      "projectPath": "C:\\Users\\rhjm2\\OneDrive\\Área de Trabalho\\Concessionaria\\Programas\\Matematica\\Matematica\\Matematica.csproj",
+      "packagesPath": "C:\\Users\\rhjm2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rhjm2\\OneDrive\\Área de Trabalho\\Concessionaria\\Programas\\Matematica\\Matematica\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rhjm2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\rhjm2\\OneDrive\\Área de Trabalho\\Concessionaria\\Programas\\Matematica\\ProgramasDivisao\\ProgramasDivisao.csproj": {
+              "projectPath": "C:\\Users\\rhjm2\\OneDrive\\Área de Trabalho\\Concessionaria\\Programas\\Matematica\\ProgramasDivisao\\ProgramasDivisao.csproj"
+            },
+            "C:\\Users\\rhjm2\\OneDrive\\Área de Trabalho\\Concessionaria\\Programas\\Matematica\\ProgramasMultiplicar\\ProgramasMultiplicar.csproj": {
+              "projectPath": "C:\\Users\\rhjm2\\OneDrive\\Área de Trabalho\\Concessionaria\\Programas\\Matematica\\ProgramasMultiplicar\\ProgramasMultiplicar.csproj"
+            },
+            "C:\\Users\\rhjm2\\OneDrive\\Área de Trabalho\\Concessionaria\\Programas\\Matematica\\ProgramasSoma\\ProgramasSoma.csproj": {
+              "projectPath": "C:\\Users\\rhjm2\\OneDrive\\Área de Trabalho\\Concessionaria\\Programas\\Matematica\\ProgramasSoma\\ProgramasSoma.csproj"
+            },
+            "C:\\Users\\rhjm2\\OneDrive\\Área de Trabalho\\Concessionaria\\Programas\\Matematica\\ProgramasSubitrair\\ProgramasSubitrair.csproj": {
+              "projectPath": "C:\\Users\\rhjm2\\OneDrive\\Área de Trabalho\\Concessionaria\\Programas\\Matematica\\ProgramasSubitrair\\ProgramasSubitrair.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
